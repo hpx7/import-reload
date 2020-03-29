@@ -2,7 +2,6 @@
   "name": "import-reload",
   "version": "1.0.2",
   "description": "Module reloading for Node.js",
-  "type": "module",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "dependencies": {},
