@@ -1,0 +1,38 @@
+{
+  "name": "import-reload",
+  "version": "1.0.0",
+  "description": "Module reloading for Node.js",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^13.9.5",
+    "typescript": "^3.8.3"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hpx7/import-reload.git"
+  },
+  "keywords": [
+    "hot",
+    "module",
+    "replacement",
+    "import",
+    "require",
+    "dynamic",
+    "reload"
+  ],
+  "author": "Harsh Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hpx7/import-reload/issues"
+  },
+  "homepage": "https://github.com/hpx7/import-reload#readme"
+}
