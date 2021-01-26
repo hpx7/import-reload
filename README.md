@@ -2,7 +2,7 @@
 
 Module reloading for Node.js
 
-`import-reload` is a NPM module that lets you live-relaod modules when they are modified without requiring server restart.
+`import-reload` is a NPM module that lets you live-reload modules when they are modified without requiring server restart.
 
 ## INSTALL
 
